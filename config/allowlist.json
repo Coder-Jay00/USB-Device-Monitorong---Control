@@ -1,0 +1,10 @@
+{
+  "approved_devices": [
+    {
+      "vendor_id": "0x1234",
+      "product_id": "0x5678",
+      "serial_number": "ABCDEF123456",
+      "description": "Admin Trusted USB Drive"
+    }
+  ]
+}
